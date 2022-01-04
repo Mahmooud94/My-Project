@@ -1,0 +1,7 @@
+The .gitignore file is a text file that tells Git which files or folders to ignore in a project.
+
+The entries in this file can also follow a matching pattern.
+
+* is used as a wildcard match
+/ is used to ignore pathnames relative to the .gitignore file
+# is used to add comments to a .gitignore file
